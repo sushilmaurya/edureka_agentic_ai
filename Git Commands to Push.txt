@@ -1,0 +1,6 @@
+cd E:\workspace\edureka_course\agentic_ai
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/yourusername/my-project.git
+git branch -M main
+git push -u origin main
